@@ -1,11 +1,11 @@
 @font-face {
     font-family: "MyZing";
-    src: url("/fonts/Zing.ttf");
+    src: url("fonts/Zing.ttf");
   }
   
   @font-face {
     font-family: "MyPlaybill";
-    src: url("/fonts/playbill.ttf");
+    src: url("fonts/playbill.ttf");
   }
 
 * {
@@ -113,7 +113,7 @@ li a:active {
 .aboutMe {
   
   border: 2px black solid;
-  background: url('/aboutMeSRC/background.jpg') no-repeat;
+  background: url('aboutMeSRC/background.jpg') no-repeat;
   background-size: cover;
 }
 
@@ -192,7 +192,7 @@ li a:active {
 .skills {
   width: 100%;
   border: 2px black solid;
-  background: url('/skillsSRC/background.jpg') no-repeat;
+  background: url('skillsSRC/background.jpg') no-repeat;
   background-size: cover;
 }
 
@@ -358,7 +358,7 @@ nCodeLinks img {
 .certificate {
   width: 100%;
   /* border: 2px black solid; */
-  background: url('/certificateSRC/background.jpg') no-repeat;
+  background: url('certificateSRC/background.jpg') no-repeat;
   background-size: cover;
 }
 
@@ -474,7 +474,7 @@ nCodeLinks img {
   
   width: 100%;
   
-  background: url('/projectsSRC/background.png') no-repeat;
+  background: url('projectsSRC/background.png') no-repeat;
   background-size: cover;
 }
 
